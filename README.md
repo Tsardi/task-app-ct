@@ -15,7 +15,7 @@
   ###installation
   1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/ct-task-app.git
+    git clone https://github.com/Tsardi/task-app-ct.git
     cd ct-task-app
     ```
 
