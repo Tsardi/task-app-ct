@@ -1,0 +1,89 @@
+
+.Logout-btn {
+  background-color: #f20303;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.Login-btn {
+  background-color: #096afa;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.Complete-btn {
+  background-color: #066c11;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.Edit-btn {
+  background-color: #4d94ff;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.Delete-btn {
+  background-color: #fc0404;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.navbar {
+  display: flex;
+  justify-content: center; /* centers content horizontally */
+  align-items: center;
+  padding: 10px 20px;
+  background-color: #add1f4;
+}
+
+.Profile-img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 1rem;
+}
+.User-name {
+  text-align: center;
+  font-size: 1.5rem;
+  color: #333;
+  margin-bottom: 1rem;
+}
+
+.Secret {
+  text-align: center;
+  font-size: 1.2rem;
+  color: #555;
+  margin-bottom: 1rem;
+  color: #f20303;
+  justify-content: center;
+}
+
+.center-layout {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  text-align: center;
+}
